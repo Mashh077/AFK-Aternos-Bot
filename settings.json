@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bns566.aternos.me",
+    "ip": "bns566.aternos.me:29622",
     "port": 29622,
     "version": "26.1.2",
     "try-creative": false
